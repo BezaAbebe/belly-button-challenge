@@ -6,7 +6,7 @@ create an interactive dashboard using D3.js to visualize biological data from "s
 
 # Features
 
-- InteractiveHorizontal Bar Chart: Displays top 10 OTUs for selected samples.
+- Interactive Horizontal Bar Chart: Displays top 10 OTUs for selected samples.
 - Interactive Bubble Chart: Visualizes each sample with customized markers.
 - Dynamic Metadata Display: Shows demographic information for selected samples.
 - Interactive Dropdown Menu: Updates charts and metadata based on user selection.
